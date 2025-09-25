@@ -1,0 +1,14 @@
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/bin/Debug/net9.0/cinco_sueldos_array
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/bin/Debug/net9.0/cinco_sueldos_array.deps.json
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/bin/Debug/net9.0/cinco_sueldos_array.runtimeconfig.json
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/bin/Debug/net9.0/cinco_sueldos_array.dll
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/bin/Debug/net9.0/cinco_sueldos_array.pdb
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/obj/Debug/net9.0/cinco_sueldos_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/obj/Debug/net9.0/cinco_sueldos_array.AssemblyInfoInputs.cache
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/obj/Debug/net9.0/cinco_sueldos_array.AssemblyInfo.cs
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/obj/Debug/net9.0/cinco_sueldos_array.csproj.CoreCompileInputs.cache
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/obj/Debug/net9.0/cinco_sueldos_array.dll
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/obj/Debug/net9.0/refint/cinco_sueldos_array.dll
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/obj/Debug/net9.0/cinco_sueldos_array.pdb
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/obj/Debug/net9.0/cinco_sueldos_array.genruntimeconfig.cache
+/home/linux/Programacion/C Sharp/cinco_sueldos_array/obj/Debug/net9.0/ref/cinco_sueldos_array.dll
